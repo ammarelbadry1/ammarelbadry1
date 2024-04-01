@@ -191,6 +191,15 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
             />
         </picture>
     </a>
+    &nbsp;
+    <a href="mailto:ammarelbadry1@gmail.com" target="_blank" rel="noreferrer">
+        <img
+            src="./gmail-icon.svg"
+            width="32"
+            height="32"
+            alt="Gmail"
+        />
+    </a>
 </p>
 
 ### Badges
@@ -211,13 +220,14 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         alt="GitHub Stats"
     />
 </picture>
+<br />
 <picture>
     <source
-        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=default&border_radius=20&background=f7f7f7&ring=000000&fire=f05237&currStreakLabel=000000"
+        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=dark&border_radius=20&background=0d1117&ring=4c8eda&fire=1f6feb&currStreakLabel=4c8eda"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=dark&border_radius=20&background=0d1117&ring=4c8eda&fire=1f6feb&currStreakLabel=4c8eda"
+        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=default&border_radius=20&background=f7f7f7&ring=000000&fire=f05237&currStreakLabel=000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
@@ -225,6 +235,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         alt="Contributions Stats"
     />
 </picture>
+<br />
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbadry1&theme=github_dark&border_radius=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical&exclude_repo=ML,computer_vision&langs_count=7"
