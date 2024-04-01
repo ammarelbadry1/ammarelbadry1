@@ -195,8 +195,8 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     <a href="mailto:ammarelbadry1@gmail.com" target="_blank" rel="noreferrer">
         <img
             src="./gmail-icon.svg"
-            width="32"
-            height="32"
+            width="36"
+            height="36"
             alt="Gmail"
         />
     </a>
