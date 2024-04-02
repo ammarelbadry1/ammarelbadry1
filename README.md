@@ -164,39 +164,11 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
             />
         </picture>
     </a>
-    &nbsp;
-    <a href="https://www.x.com/ammarelbadry1" target="_blank" rel="noreferrer">
-        <picture>
-            <source
-                media="(prefers-color-scheme: dark)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"
-            />
-            <source
-                media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-            />
-            <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-                width="32"
-                height="32"
-                alt="X Profile"
-            />
-        </picture>
-    </a>
-    &nbsp;
-    <a href="mailto:ammarelbadry1@gmail.com" target="_blank" rel="noreferrer">
-        <img
-            src="./gmail-icon.svg"
-            width="40"
-            height="40"
-            alt="Gmail"
-        />
-    </a>
 </p>
 
-### Badges
+<br />
 
-#### My GitHub Stats
+## Badges
 
 <picture>
     <source
