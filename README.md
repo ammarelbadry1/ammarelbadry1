@@ -170,6 +170,8 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 ## Badges
 
+<br />
+
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=ammarelbadry1&show_icons=true&count_private=true&theme=github_dark&border_radius=20&rank_icon=github"
@@ -185,6 +187,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     />
 </picture>
 <br />
+<br />
 <picture>
     <source
         srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=dark&border_radius=20&background=0d1117&ring=4c8eda&fire=1f6feb&currStreakLabel=4c8eda"
@@ -199,6 +202,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         alt="Contributions Stats"
     />
 </picture>
+<br />
 <br />
 <picture>
     <source
