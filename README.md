@@ -11,8 +11,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 * ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
 * 🚀  I'm currently working on [Raqeeb](https://raqeeb.vercel.app)
 * 🧠  I'm learning NodeJS
-* 🤝  I'm open to collaborating on interesting projects
-
+* 🤝  I'm open to collaborating
 <br />
 
 ## Skills
