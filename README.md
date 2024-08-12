@@ -1,6 +1,6 @@
 # Hi there, 👋 My name is Ammar
 
-I'm a Software Engineer interested in backend development.
+I'm a Software Engineer interested in frontend development.
 I'm passionate about sharing web engineering knowledge and contributing to projects.
 
 <br />
@@ -9,7 +9,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 * 🌍  I'm based in Damietta
 * ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
-* 🚀  I'm currently working on [ProDash](https://prodash.vercel.app)
+* 🚀  I'm currently working on [Raqeeb](https://reqeeb.vercel.app)
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 
