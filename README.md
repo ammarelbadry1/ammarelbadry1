@@ -9,7 +9,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 * 🌍  I'm based in Damietta
 * ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
-* 🚀  I'm currently working on [Raqeeb](https://reqeeb.vercel.app)
+* 🚀  I'm currently working on [Raqeeb](https://raqeeb.vercel.app)
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 
