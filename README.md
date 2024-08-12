@@ -73,11 +73,11 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     />
     &nbsp;
     <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
         width="36"
         height="36"
-        alt="MySQL"
-        title="MySQL"
+        alt="PostgreSQL"
+        title="PostgreSQL"
     />
     &nbsp;
     <img
@@ -138,6 +138,30 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         height="36"
         alt="React"
         title="React"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
+        width="36"
+        height="36"
+        alt="Webpack"
+        title="Webpack"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+        width="36"
+        height="36"
+        alt="Vite"
+        title="Vite"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+        width="36"
+        height="36"
+        alt="NextJs"
+        title="NextJs"
     />
 </p>
 
