@@ -157,7 +157,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     />
     &nbsp;
     <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"
         width="36"
         height="36"
         alt="NextJs"
