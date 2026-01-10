@@ -10,7 +10,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 * 🌍  I'm based in Damietta
 * ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
 * 🚀  I'm currently working on [Bayaan](https://bayaan-web.vercel.app)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning Odoo
 * 🤝  I'm open to collaborating
 <br />
 
