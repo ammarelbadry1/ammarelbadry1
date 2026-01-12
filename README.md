@@ -7,12 +7,12 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 ## About Me
 
-* 🌍  I'm based in Damietta
-* ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
-* 🚀  I'm currently working on [Bayaan](https://bayaan-web.vercel.app)
-* 🧠  I'm learning Odoo
-* 🤝  I'm open to collaborating
-<br />
+- 🌍  I'm based in Damietta
+- ✉️  You can contact me at [ammarelbadry1@gmail.com](mailto:ammarelbadry1@gmail.com)
+- 🚀  I'm currently working on [Bayaan](https://bayaan-web.vercel.app)
+- 🧠  I'm learning Odoo
+- 🤝  I'm open to collaborating
+  <br />
 
 ## Skills
 
@@ -191,7 +191,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 <br />
 
-## Badges
+<!-- ## Badges
 
 <br />
 
@@ -240,4 +240,4 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbadry1&theme=github_dark&border_radius=20&size_weight=0.5&count_weight=0.5"
         alt="Contributions Stats"
     />
-</picture>
+</picture> -->
