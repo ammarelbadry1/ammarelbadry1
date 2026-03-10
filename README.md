@@ -1,6 +1,6 @@
 # Hi there, 👋 My name is Ammar
 
-I'm a Software Engineer interested in frontend development.
+I'm a Software Engineer interested in backend development.
 I'm passionate about sharing web engineering knowledge and contributing to projects.
 
 <br />
