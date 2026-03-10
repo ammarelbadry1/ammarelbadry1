@@ -188,7 +188,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     <a href="https://www.linkedin.com/in/ammarelbadry1" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="24"
+            width="32"
             height="32"
             alt="Linkedin Profile"
         />
