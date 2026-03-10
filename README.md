@@ -51,7 +51,13 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         title="Docker"
     />
     &nbsp;
-    <svg role="img" fill="#844FBA" viewBox="0 0 24 24" width="36" height="36"  xmlns="http://www.w3.org/2000/svg"><path d="M1.44 0v7.575l6.561 3.79V3.787zm21.12 4.227l-6.561 3.791v7.574l6.56-3.787zM8.72 4.23v7.575l6.561 3.787V8.018zm0 8.405v7.575L15.28 24v-7.578z"/></svg>
+    <img
+        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwb2x5Z29uIGZpbGw9IiM2MDQyZWEiIHBvaW50cz0iMTcsMjMgNSwxNiA1LDIgMTcsOSIvPjxwb2x5Z29uIGZpbGw9IiM2MDQyZWEiIHBvaW50cz0iMzEsMzEgMTksMjQgMTksMTAgMzEsMTciLz48cG9seWdvbiBmaWxsPSIjNDA0MGIyIiBwb2ludHM9IjMzLDMxIDQ1LDI0IDQ1LDEwIDMzLDE3Ii8+PHBvbHlnb24gZmlsbD0iIzYwNDJlYSIgcG9pbnRzPSIzMSw0NyAxOSw0MCAxOSwyNiAzMSwzMyIvPjwvc3ZnPg=="
+        width="36"
+        height="36"
+        alt="Terraform"
+        title="Terraform"
+    />
 </p>
 
 ### Backend
@@ -71,6 +77,14 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
         height="36"
         alt="Express"
         title="Express"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+        width="36"
+        height="36"
+        alt="Laravel"
+        title="Laravel"
     />
     &nbsp;
     <img
@@ -98,11 +112,11 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     />
     &nbsp;
     <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"
-        width="36"
-        height="36"
-        alt="Flask"
-        title="Flask"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg"
+        width="64"
+        height="42"
+        alt="Odoo"
+        title="Odoo"
     />
 </p>
 
@@ -172,22 +186,12 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ammarelbadry1" target="_blank" rel="noreferrer">
-        <picture>
-            <source
-                media="(prefers-color-scheme: dark)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"
-            />
-            <source
-                media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            />
-            <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-                width="32"
-                height="32"
-                alt="Linkedin Profile"
-            />
-        </picture>
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+            width="32"
+            height="32"
+            alt="Linkedin Profile"
+        />
     </a>
 </p>
 
