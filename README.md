@@ -52,7 +52,7 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     />
     &nbsp;
     <img
-        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwb2x5Z29uIGZpbGw9IiM2MDQyZWEiIHBvaW50cz0iMTcsMjMgNSwxNiA1LDIgMTcsOSIvPjxwb2x5Z29uIGZpbGw9IiM2MDQyZWEiIHBvaW50cz0iMzEsMzEgMTksMjQgMTksMTAgMzEsMTciLz48cG9seWdvbiBmaWxsPSIjNDA0MGIyIiBwb2ludHM9IjMzLDMxIDQ1LDI0IDQ1LDEwIDMzLDE3Ii8+PHBvbHlnb24gZmlsbD0iIzYwNDJlYSIgcG9pbnRzPSIzMSw0NyAxOSw0MCAxOSwyNiAzMSwzMyIvPjwvc3ZnPg=="
+        src="https://img.icons8.com/color/48/terraform.png"
         width="36"
         height="36"
         alt="Terraform"
@@ -188,62 +188,18 @@ I'm passionate about sharing web engineering knowledge and contributing to proje
     <a href="https://www.linkedin.com/in/ammarelbadry1" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="32"
+            width="24"
             height="32"
             alt="Linkedin Profile"
         />
     </a>
+    &nbsp;
+    <a href="mailto:ammarelbadry1@gmail.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.icons8.com/color/48/gmail-new.png"
+            width="32"
+            height="32"
+            alt="Gmail"
+        />
+    </a>
 </p>
-
-<br />
-
-<!-- ## Badges
-
-<br />
-
-<picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ammarelbadry1&show_icons=true&count_private=true&theme=github_dark&border_radius=20&rank_icon=github"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ammarelbadry1&show_icons=true&count_private=true&theme=swift&border_radius=20&rank_icon=github"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=ammarelbadry1&show_icons=true&count_private=true&border_radius=20&rank_icon=github"
-        alt="GitHub Stats"
-    />
-</picture>
-<br />
-<br />
-<picture>
-    <source
-        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=dark&border_radius=20&background=0d1117&ring=4c8eda&fire=1f6feb&currStreakLabel=4c8eda"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://streak-stats.demolab.com/?user=ammarelbadry1&theme=default&border_radius=20&background=f7f7f7&ring=000000&fire=f05237&currStreakLabel=000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-        src="https://streak-stats.demolab.com/?user=ammarelbadry1&border_radius=20"
-        alt="Contributions Stats"
-    />
-</picture>
-<br />
-<br />
-<picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbadry1&theme=github_dark&border_radius=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical&exclude_repo=ML,computer_vision&langs_count=8"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbadry1&theme=swift&border_radius=20&size_weight=0.5&count_weight=0.5"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbadry1&theme=github_dark&border_radius=20&size_weight=0.5&count_weight=0.5"
-        alt="Contributions Stats"
-    />
-</picture> -->
